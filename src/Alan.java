@@ -11,7 +11,6 @@ public class Alan {
         centerArea=input.nextInt();
         alan=(pi*(r*r)*centerArea)/360;
         System.out.print("daire diliminin alanı="+alan);
-        alan2=(pi*(r*r)*centerArea)/320;
-        System.out.println(alan2);
+
     }
 }
